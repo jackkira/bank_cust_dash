@@ -8,6 +8,7 @@ external_stylesheets = ['https://codepen.io/unicorndy/pen/GRJXrvP.css',
                         'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css']
 
 app = Dash(__name__, external_stylesheets=external_stylesheets)
+server = app.server
 
 alert = dbc.Alert("Please choose Credit Score Type from dropdown to avoid further disappointment!", color="red",
                   dismissable=True),  # use dismissible or duration=5000 for alert to close in x milliseconds
