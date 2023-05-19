@@ -3,7 +3,7 @@ from dash import Dash, Input, dcc, html, Output, dash, State
 import plotly.express as px
 import dash_bootstrap_components as dbc
 
-bank_cust_data = "https://github.com/jackkira/bank_cust_dash/blob/99197ebc28b802e70ddb24b2472d6d312f2f3be3/Bank_customer_dataset.csv"
+bank_cust_data = "https://raw.githubusercontent.com/jackkira/bank_cust_dash/99197ebc28b802e70ddb24b2472d6d312f2f3be3/Bank_customer_dataset.csv"
 
 df = pd.read_csv(bank_cust_data, encoding='utf-8')
 external_stylesheets = ['https://codepen.io/unicorndy/pen/GRJXrvP.css',
@@ -432,4 +432,4 @@ def update_nop_chart(geo):
 
 
 if __name__ == '__main__':
-    app.run_server(debug=True, port=8010)
+    app.run_server(debug=False)
