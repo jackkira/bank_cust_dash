@@ -22,16 +22,20 @@ All tools stated here are free.
     * Percentage of Male and Female in the 
     * How many Customers are associated with Bank and Tenure
     * Number of Products utilized by customers (Male/Female)
-![Snap_01](Snap/Snap_01.png)
+
+![Alt text](https://github.com/jackkira/bank_cust_dash/blob/main/Snap/Snap_01.PNG)
+
 ***
 * How many customers have left based on Age, Credit Score, and Balance. (Geography filter)
-![Snap_02](Snap/Snap_02.png)
+
+![Alt text](https://github.com/jackkira/bank_cust_dash/blob/main/Snap/Snap_02.PNG)
+
 ***
 * Gender filter
     * Age-wise count of the customer in the system.
     * summation Balance of Customer Geography-wise.
-![Snap_03](Snap/Snap_03.png)
+![Alt text](https://github.com/jackkira/bank_cust_dash/blob/main/Snap/Snap_03.PNG)
 ***
 * Five Level Likert scale of Customers score with Active and Left customer percentage.
-![Snap_04](Snap/Snap_04.png)
+![Alt text](https://github.com/jackkira/bank_cust_dash/blob/main/Snap/Snap_04.PNG)
 ***
