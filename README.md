@@ -38,5 +38,6 @@ All tools stated here are free.
 ![Alt text](https://github.com/jackkira/bank_cust_dash/blob/main/Snap/Snap_03.PNG)
 ***
 * Five Level Likert scale of Customers score with Active and Left customer percentage.
+
 ![Alt text](https://github.com/jackkira/bank_cust_dash/blob/main/Snap/Snap_04.PNG)
 ***
