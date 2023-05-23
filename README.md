@@ -34,6 +34,7 @@ All tools stated here are free.
 * Gender filter
     * Age-wise count of the customer in the system.
     * summation Balance of Customer Geography-wise.
+
 ![Alt text](https://github.com/jackkira/bank_cust_dash/blob/main/Snap/Snap_03.PNG)
 ***
 * Five Level Likert scale of Customers score with Active and Left customer percentage.
