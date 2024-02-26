@@ -1,0 +1,8 @@
+__pycache__/
+test/
+Logs/
+.idea/
+modules/__pycache__
+modules/.ipynb_checkpoints
+.env
+test*
